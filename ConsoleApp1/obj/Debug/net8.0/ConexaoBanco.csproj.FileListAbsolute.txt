@@ -35,3 +35,4 @@ C:\Users\2024102060028\Downloads\ConexaoBancodeDados\ConsoleApp1\obj\Debug\net8.
 C:\Users\2024102060028\Downloads\ConexaoBancodeDados\ConsoleApp1\obj\Debug\net8.0\ConexaoBanco.pdb
 C:\Users\2024102060028\Downloads\ConexaoBancodeDados\ConsoleApp1\obj\Debug\net8.0\ConexaoBanco.genruntimeconfig.cache
 C:\Users\2024102060028\Downloads\ConexaoBancodeDados\ConsoleApp1\obj\Debug\net8.0\ref\ConexaoBanco.dll
+C:\Users\2024102060028\Downloads\ConexaoBancodeDados\ConsoleApp1\obj\Debug\net8.0\ConexaoBanco.sourcelink.json

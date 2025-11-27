@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|solutionrelative:dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConsoleApp1.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\dao\\planodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|solutionrelative:dao\\planodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|solutionrelative:dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|solutionrelative:models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConsoleApp1.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConsoleApp1.csproj|solutionrelative:utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\models\\plano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|solutionrelative:models\\plano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\interfaces\\iplano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|solutionrelative:interfaces\\iplano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|solutionrelative:interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\interfaces\\ifuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|solutionrelative:interfaces\\ifuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|c:\\users\\2024102060028\\downloads\\conexaobancodedados\\consoleapp1\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9867F3-A67A-4E87-8E4A-A67968BBF87E}|ConexaoBanco.csproj|solutionrelative:utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +46,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Interfaces\\IDao.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDao.cs",
+              "ToolTip": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Interfaces\\IDao.cs",
+              "RelativeToolTip": "Interfaces\\IDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:01:53.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPlano.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Interfaces\\IPlano.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPlano.cs",
+              "ToolTip": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Interfaces\\IPlano.cs",
+              "RelativeToolTip": "Interfaces\\IPlano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:49:43.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Interfaces\\IFuncionario.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFuncionario.cs",
+              "ToolTip": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Interfaces\\IFuncionario.cs",
+              "RelativeToolTip": "Interfaces\\IFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:27:08.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwvz0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:33:48.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Dao\\PlanoDAO.cs",
+              "RelativeDocumentMoniker": "Dao\\PlanoDAO.cs",
+              "ToolTip": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Dao\\PlanoDAO.cs",
+              "RelativeToolTip": "Dao\\PlanoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:54:10.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FuncionarioDAO.cs",
               "DocumentMoniker": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Dao\\FuncionarioDAO.cs",
               "RelativeDocumentMoniker": "Dao\\FuncionarioDAO.cs",
               "ToolTip": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Dao\\FuncionarioDAO.cs",
               "RelativeToolTip": "Dao\\FuncionarioDAO.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAADwv1kAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T00:25:29.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Models\\Funcionario.cs",
               "RelativeDocumentMoniker": "Models\\Funcionario.cs",
@@ -56,7 +141,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Plano.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Models\\Plano.cs",
+              "RelativeDocumentMoniker": "Models\\Plano.cs",
+              "ToolTip": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Models\\Plano.cs",
+              "RelativeToolTip": "Models\\Plano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:32:55.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Utilitarios\\Conexao.cs",
               "RelativeDocumentMoniker": "Utilitarios\\Conexao.cs",
@@ -65,19 +163,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T23:38:46.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\2024102060028\\Downloads\\ConexaoBancodeDados\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T23:33:48.358Z",
               "EditorCaption": ""
             }
           ]

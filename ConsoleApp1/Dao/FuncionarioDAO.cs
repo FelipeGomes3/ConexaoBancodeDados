@@ -1,11 +1,13 @@
-﻿using ConexaoBanco.Models;
+﻿using ConexaoBanco.Interfaces;
+using ConexaoBanco.Models;
 using ConexaoBanco.Utilitarios;
 using MySql.Data.MySqlClient;
 namespace ConexaoBanco.Dao
 {
-    internal class FuncionarioDAO
+    internal class FuncionarioDAO : IDao <Funcionario>
     {
-        public void Insert(Funcionario funcionario)
+
+        public void Create(Funcionario funcionario)
         {
             try
             {
@@ -82,7 +84,7 @@ namespace ConexaoBanco.Dao
             }
         }
 
-        public List<Funcionario> List()
+        public List<Funcionario> GetAll()
         { 
             List<Funcionario> listadeFuncionarios = new List<Funcionario>();
             try

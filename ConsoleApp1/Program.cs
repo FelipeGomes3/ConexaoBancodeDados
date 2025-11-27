@@ -15,8 +15,6 @@ using ConexaoBanco.Utilitarios;
 //fdao.Insert(f);
 
 
-
-
 //Funcionario f = new Funcionario();
 //f.Id_funcionario = 10;
 //f.Nome = "Felipe Gomes";
@@ -31,10 +29,34 @@ using ConexaoBanco.Utilitarios;
 
 //fdao.Delete(10);
 
-FuncionarioDAO fdao = new FuncionarioDAO();
-List<Funcionario> lista = fdao.List();
+//FuncionarioDAO fdao = new FuncionarioDAO();
+//List<Funcionario> lista = fdao.GetAll();
 
-foreach (Funcionario f in lista)
-{ 
-    Console.WriteLine(f.Nome);
-}
+//foreach (Funcionario f in lista)
+//{ 
+//    Console.WriteLine(f.Nome);
+//}
+//FuncionarioDAO fdao = new FuncionarioDAO();
+//fdao.Insert(f);
+
+PlanoDAO pDao = new PlanoDAO();
+Plano p = new Plano();
+//p.Id_plano = 7;
+//p.Descricao = "Plano Cooperativa";
+//p.ValorSugerido = 85;
+//p.Atv = true;
+//pDao.Create(p);
+
+////PlanoDAO pDao = new PlanoDAO();
+////Plano p = new Plano();
+//p.Id_plano = 6;
+//p.Descricao = "Plano Funcionário";
+//p.ValorSugerido = 45;
+//p.Atv = true;
+//pDao.Update(p);
+
+
+
+pDao.Delete(7);
+pDao.Delete(8);
+pDao.Delete(9);
